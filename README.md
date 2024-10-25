@@ -6,8 +6,7 @@ A full-stack web application built with Node.js/Express backend and React/Vite f
 
 
 ### Rule Creation Interface
-![Rule Creation]![Screenshot (264)](https://github.com/user-attachments/assets/540747fa-5b4d-4545-bf3a-67f31671b3f7)
-older/800/400)
+![Rule Creation]![Screenshot (264)](https://github.com/user-attachments/assets/d0a0a1cd-0e4b-40de-9d16-28e497aaa1a7)
 *Interface for creating and configuring new rules*
 
 ### Rule Management
@@ -16,7 +15,7 @@ older/800/400)
 *List view of existing rules with management options*
 
 ### Rule Execution Results
-![Rule Execution]![Screenshot (262)](https://github.com/user-attachments/assets/d0a0a1cd-0e4b-40de-9d16-28e497aaa1a7)
+![Rule Execution]![Screenshot (262)](https://github.com/user-attachments/assets/540747fa-5b4d-4545-bf3a-67f31671b3f7)
 
 *Results view showing rule execution outcomes*
 
